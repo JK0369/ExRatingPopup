@@ -13,6 +13,7 @@
 		C62134442820C54000F88810 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C62134422820C54000F88810 /* Main.storyboard */; };
 		C62134462820C54100F88810 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C62134452820C54100F88810 /* Assets.xcassets */; };
 		C62134492820C54100F88810 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C62134472820C54100F88810 /* LaunchScreen.storyboard */; };
+		C62134512820C5E200F88810 /* AppStoreReviewManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C62134502820C5E200F88810 /* AppStoreReviewManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C62134452820C54100F88810 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C62134482820C54100F88810 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C621344A2820C54100F88810 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C62134502820C5E200F88810 /* AppStoreReviewManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStoreReviewManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C621343C2820C54000F88810 /* AppDelegate.swift */,
 				C621343E2820C54000F88810 /* SceneDelegate.swift */,
 				C62134402820C54000F88810 /* ViewController.swift */,
+				C62134502820C5E200F88810 /* AppStoreReviewManager.swift */,
 				C62134422820C54000F88810 /* Main.storyboard */,
 				C62134452820C54100F88810 /* Assets.xcassets */,
 				C62134472820C54100F88810 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C62134412820C54000F88810 /* ViewController.swift in Sources */,
+				C62134512820C5E200F88810 /* AppStoreReviewManager.swift in Sources */,
 				C621343D2820C54000F88810 /* AppDelegate.swift in Sources */,
 				C621343F2820C54000F88810 /* SceneDelegate.swift in Sources */,
 			);
